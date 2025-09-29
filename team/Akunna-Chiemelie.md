@@ -16,7 +16,7 @@ Hi, I’m **Akunna Chiemelie**, a web developer passionate about building user-f
 
 #### 📂 Projects
 
-#### **Educational Website:**
+#### **Educational Website:gi**
 
 A front-end website designed for Educating people on frontend fundamental utilizing HTML, CSS and JavaScript for the whole website, see:
 [FRONT-END_DOSE](https://emynogithub.github.io/myofficialwebsite22-updated/)
